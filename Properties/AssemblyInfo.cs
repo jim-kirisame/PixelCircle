@@ -8,11 +8,11 @@ using System.Windows;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("PixelCircle")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Drawing circle for Minecraft")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Lotlab")]
 [assembly: AssemblyProduct("PixelCircle")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCopyright("Copyright © Lotlab 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
